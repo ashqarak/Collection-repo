@@ -1,3 +1,4 @@
 # Collection
 
 ArrayList
+HashMap
